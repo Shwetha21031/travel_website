@@ -2,6 +2,8 @@
 Hello there beautiful people 👋 
 I'm super excited to share with you my respnsive trave website 💖💖💖 Do check out the video ➡️
 https://github.com/Shwetha21031/travel_website/assets/106007416/e7464ce2-a85c-4671-a36b-f5aec03381e2
+
+
 Used : Html , Css , bootstrap5 , js
 
 ![image](https://github.com/Shwetha21031/travel_website/assets/106007416/a44fd752-f67a-4903-889f-a3d1c8aa5b3b)
